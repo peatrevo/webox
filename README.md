@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Webox API Library
 =================
 PHP Wrapper for Webox API
@@ -29,3 +30,7 @@ Once the extension is installed, simply use it in your code by  :
 
 ```php
 <?= \peatrevo\webox\AutoloadExample::widget(); ?>```
+=======
+webox
+=====
+>>>>>>> 5c52b177f213a194677c34b068c9323ccc599ed3
