@@ -1,7 +1,9 @@
 {
 	"name": "peatrevo/yii2-webox",
 	"description": "PHP Wrapper for Webox API",
-	"type": "library",
+	"require": {
+        "guzzle/guzzle": "<4.0,>=3.8"
+    },
 	"keywords": ["yii2","extension"],
 	"license": "MIT",
 	"authors": [
@@ -14,5 +16,6 @@
 		"psr-4": {
 			"peatrevo\\webox\\": ""
 		}
-	}
+	},
+	"minimum-stability": "stable"
 }
